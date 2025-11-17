@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Elmas Çağla 👋
+Full Stack Developer | .NET MVC Core, C#, JavaScript, MySQL
 
-<!--
-**iscielmascagla/iscielmascagla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Backend: .NET MVC Core, C#, Windows Forms
+- Frontend: JavaScript, HTML, CSS, Bootstrap
+- Database: MySQL
+- Tools: Git, SendGrid, Dapper
 
-Here are some ideas to get you started:
+## 🔍 Projects
+- **MeetingApp** – ASP.NET Core MVC application for scheduling meetings  
+- **Capstone** – Mini Sustainability APP built with Python Streamlit  
+- **Project with confidentiality agreement ** – .Net MVC Core application, that interprets and displays data from devices
+-**competition application**- .Net MVC Core application, a moderated competition with ads, videos, leaderboards, and questions 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/elmas-%C3%A7a%C4%9Fla-i%C5%9F%C3%A7i-8111006a/
+- Email: iscielmascagla@gmail.com
+
